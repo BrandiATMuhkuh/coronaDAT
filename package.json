@@ -1,0 +1,13 @@
+{
+  "name": "corona-dat",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "repository": "git@github.com:BrandiATMuhkuh/coronaDAT.git",
+  "author": "Jürgen Brandstetter <jurgen@jaipuna.com>",
+  "license": "MIT",
+  "dependencies": {
+    "adm-zip": "^0.5.4",
+    "csvjson": "^5.1.0",
+    "glob": "^7.1.6"
+  }
+}
